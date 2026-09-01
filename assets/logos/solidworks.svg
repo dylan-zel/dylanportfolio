@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="title">
+  <title id="title">SolidWorks</title>
+  <path d="M60 4 116 30v60l-56 26L4 90V30z" fill="#9b0000"/>
+  <path d="M60 4 116 30 60 56 4 30z" fill="#ff2b2b"/>
+  <path d="M4 30 60 56v60L4 90z" fill="#7f0000"/>
+  <path d="M116 30 60 56v60l56-26z" fill="#8c0000"/>
+  <path d="M18 78c11 5 27 6 27-5 0-14-31-12-31-35 0-18 22-24 42-15l-4 17c-12-7-21-4-21 3 0 12 31 10 31 35 0 19-20 27-48 17z" fill="#fff"/>
+  <path d="M70 34h16l5 38 12-38h15l-20 60H82l-6-36-12 36H49l18-60h15l-5 37z" fill="#fff"/>
+</svg>
