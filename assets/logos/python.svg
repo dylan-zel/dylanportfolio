@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="title">
+  <title id="title">Python</title>
+  <path d="M58 10c-22 0-30 8-30 22v14h34v8H20c-14 0-20 10-20 26s8 26 22 26h20V86c0-14 10-24 24-24h28V32c0-14-10-22-36-22zm-13 13a7 7 0 1 1 0 14 7 7 0 0 1 0-14z" fill="#3776ab"/>
+  <path d="M62 110c22 0 30-8 30-22V74H58v-8h42c14 0 20-10 20-26s-8-26-22-26H78v20c0 14-10 24-24 24H26v30c0 14 10 22 36 22zm13-13a7 7 0 1 1 0-14 7 7 0 0 1 0 14z" fill="#ffd43b"/>
+</svg>
