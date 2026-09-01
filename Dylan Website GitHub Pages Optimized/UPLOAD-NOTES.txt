@@ -1,0 +1,87 @@
+GitHub Pages optimized upload package
+
+Upload all files and the assets folder in this folder to the root of your GitHub repository.
+
+Oversized videos skipped because GitHub browser upload often rejects large files:
+- assets/autonomous-ugv-main-short.mov (52.7 MB)
+- assets/autonomous-ugv-working-video.mp4 (272.8 MB)
+- assets/lunabotics-2025-fdm.mp4 (869.2 MB)
+- assets/xarm-original-design-1.mp4 (34.3 MB)
+- assets/xarm-original-design-2.mp4 (28.1 MB)
+- assets/xarm-v5.avi (30.1 MB)
+
+The site will still load. Skipped video spots can be added later after compression or external hosting.
+
+Optimization report:
+image assets/arduino-rover-electronics.png -> assets/arduino-rover-electronics.jpg 0.4 MB to 0.0 MB
+image assets/arduino-rover-obstacle.png -> assets/arduino-rover-obstacle.jpg 0.9 MB to 0.1 MB
+video kept assets/arduino-rover-video.mov 1.6 MB
+video kept assets/arduino-workshop-robot-video.mov 3.3 MB
+image assets/arduino-workshop-robot.png -> assets/arduino-workshop-robot.jpg 0.2 MB to 0.0 MB
+image assets/autonomous-ugv-closeup.png -> assets/autonomous-ugv-closeup.jpg 12.6 MB to 0.3 MB
+image assets/autonomous-ugv-robot-platform.png -> assets/autonomous-ugv-robot-platform.jpg 0.6 MB to 0.1 MB
+image assets/autonomous-ugv-system-architecture.png -> assets/autonomous-ugv-system-architecture.jpg 0.1 MB to 0.0 MB
+image assets/autonomousrover1.png -> assets/autonomousrover1.jpg 0.3 MB to 0.1 MB
+image assets/bright-electronics-gearbox.png -> assets/bright-electronics-gearbox.jpg 0.0 MB to 0.0 MB
+image assets/bright-electronics-line-follower-clean.png -> assets/bright-electronics-line-follower-clean.jpg 0.7 MB to 0.0 MB
+image assets/buffalo-byte-main.png -> assets/buffalo-byte-main.jpg 1.2 MB to 0.1 MB
+image assets/cleanroom.jfif -> assets/cleanroom.jpg 0.3 MB to 0.1 MB
+image assets/dml.png -> assets/dml.jpg 0.1 MB to 0.1 MB
+image assets/drone-generative-design-final.png -> assets/drone-generative-design-final.jpg 0.1 MB to 0.0 MB
+image assets/generativedesigndrone.jpg -> assets/generativedesigndrone.jpg 0.0 MB to 0.0 MB
+image assets/generativedesigndrone1.png -> assets/generativedesigndrone1.jpg 0.1 MB to 0.1 MB
+image assets/hero-rover.jpeg -> assets/hero-rover.jpg 2.6 MB to 0.3 MB
+image assets/hils-logo.png -> assets/hils-logo.jpg 1.7 MB to 0.2 MB
+image assets/img-0419.jpeg -> assets/img-0419.jpg 4.3 MB to 0.7 MB
+image assets/img-1184.jpeg -> assets/img-1184.jpg 2.2 MB to 0.3 MB
+image assets/img-1999.jpeg -> assets/img-1999.jpg 4.0 MB to 0.5 MB
+image assets/img-2174.jpeg -> assets/img-2174.jpg 2.4 MB to 0.3 MB
+image assets/img-2967.jpg -> assets/img-2967.jpg 2.7 MB to 0.2 MB
+image assets/logos/ansys.png -> assets/logos/ansys.jpg 0.0 MB to 0.0 MB
+image assets/logos/fusion.png -> assets/logos/fusion.jpg 0.0 MB to 0.0 MB
+image assets/logos/matlab.png -> assets/logos/matlab.jpg 0.5 MB to 0.1 MB
+image assets/logos/python.jpg -> assets/logos/python.jpg 0.0 MB to 0.0 MB
+image assets/logos/ros.png -> assets/logos/ros.jpg 0.0 MB to 0.0 MB
+image assets/logos/solidworks.png -> assets/logos/solidworks.jpg 0.0 MB to 0.0 MB
+image assets/lunabotics-2025-belt.jpg -> assets/lunabotics-2025-belt.jpg 0.0 MB to 0.0 MB
+video kept assets/lunabotics-2025-demo.mov 4.5 MB
+image assets/lunabotics-2025-dirt-testing.jpg -> assets/lunabotics-2025-dirt-testing.jpg 0.0 MB to 0.0 MB
+image assets/lunabotics-2025-electrical-layout.png -> assets/lunabotics-2025-electrical-layout.jpg 0.6 MB to 0.1 MB
+image assets/lunabotics-2025-fea.png -> assets/lunabotics-2025-fea.jpg 0.1 MB to 0.0 MB
+image assets/lunabotics-2025-field.jpg -> assets/lunabotics-2025-field.jpg 3.2 MB to 0.3 MB
+video kept assets/lunabotics-2025-final-cropped.mov 16.6 MB
+image assets/lunabotics-2025-gantt-chart.png -> assets/lunabotics-2025-gantt-chart.jpg 0.2 MB to 0.1 MB
+image assets/lunabotics-2025-wheels.jpg -> assets/lunabotics-2025-wheels.jpg 0.0 MB to 0.0 MB
+image assets/lunabotics-2026-01.jpg -> assets/lunabotics-2026-01.jpg 0.6 MB to 0.2 MB
+image assets/lunabotics-2026-02.jpg -> assets/lunabotics-2026-02.jpg 0.5 MB to 0.2 MB
+image assets/lunabotics-2026-excavation-cad.png -> assets/lunabotics-2026-excavation-cad.jpg 0.1 MB to 0.0 MB
+image assets/lunabotics-2026-fea.png -> assets/lunabotics-2026-fea.jpg 0.1 MB to 0.0 MB
+image assets/lunabotics-2026-rover-cad.png -> assets/lunabotics-2026-rover-cad.jpg 0.5 MB to 0.1 MB
+image assets/lunabotics2025.jpg -> assets/lunabotics2025.jpg 0.1 MB to 0.1 MB
+image assets/mechanical-bull.png -> assets/mechanical-bull.jpg 3.3 MB to 0.1 MB
+image assets/personal-astro-01.jpg -> assets/personal-astro-01.jpg 0.4 MB to 0.3 MB
+image assets/personal-astro-02.jpg -> assets/personal-astro-02.jpg 0.5 MB to 0.3 MB
+image assets/personal-astro-03.jpg -> assets/personal-astro-03.jpg 0.4 MB to 0.3 MB
+image assets/personal-hiking-01.jpg -> assets/personal-hiking-01.jpg 3.6 MB to 0.7 MB
+image assets/personal-hiking-02.jpg -> assets/personal-hiking-02.jpg 4.7 MB to 0.8 MB
+image assets/personal-hiking-03.jpg -> assets/personal-hiking-03.jpg 4.5 MB to 0.8 MB
+image assets/personal-hiking-04.jpg -> assets/personal-hiking-04.jpg 4.3 MB to 0.8 MB
+image assets/personal-moon-detail.png -> assets/personal-moon-detail.jpg 6.6 MB to 0.1 MB
+image assets/personal-solar-disc.jpg -> assets/personal-solar-disc.jpg 0.0 MB to 0.0 MB
+image assets/personal-solar-eclipse.jpg -> assets/personal-solar-eclipse.jpg 0.1 MB to 0.0 MB
+image assets/personal-waterfall-02.jfif -> assets/personal-waterfall-02.jpg 1.1 MB to 0.7 MB
+image assets/personal-wildlife-01.jpg -> assets/personal-wildlife-01.jpg 2.2 MB to 0.4 MB
+image assets/regolith-testbed.png -> assets/regolith-testbed.jpg 0.3 MB to 0.1 MB
+image assets/resume-preview.png -> assets/resume-preview.jpg 0.2 MB to 0.3 MB
+image assets/ros-platform.png -> assets/ros-platform.jpg 0.2 MB to 0.0 MB
+image assets/scholarship.png -> assets/scholarship.jpg 0.1 MB to 0.1 MB
+image assets/space-bulls-logo.png -> assets/space-bulls-logo.jpg 0.0 MB to 0.0 MB
+image assets/spacebulls.png -> assets/spacebulls.jpg 0.1 MB to 0.1 MB
+image assets/spacebulls1.png -> assets/spacebulls1.jpg 0.1 MB to 0.1 MB
+image assets/spacebulls2.png -> assets/spacebulls2.jpg 4.3 MB to 0.5 MB
+image assets/spacebulls3.jpg -> assets/spacebulls3.jpg 12.1 MB to 0.4 MB
+image assets/swarthmore-group.png -> assets/swarthmore-group.jpg 1.6 MB to 0.2 MB
+image assets/ubr-banner.png -> assets/ubr-banner.jpg 0.5 MB to 0.2 MB
+image assets/ugv-render.png -> assets/ugv-render.jpg 0.1 MB to 0.0 MB
+image assets/xarm6-carriage.png -> assets/xarm6-carriage.jpg 0.4 MB to 0.0 MB
+image assets/xarm6-project.png -> assets/xarm6-project.jpg 0.4 MB to 0.0 MB
